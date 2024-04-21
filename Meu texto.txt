@@ -1,1 +1,2 @@
 Treinndo meus aprendizados com Git
+Nova linha pra melhorar em Git
