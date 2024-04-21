@@ -1,1 +1,2 @@
 Criei este arquivo apenasv para estudos com os comandos do Git!
+Que cor eu uso?
